@@ -25,7 +25,7 @@ export default {
   }
 
   .banner img {
-    height: 20rem;
+    height: 25rem;
     width: 1rem;
   }
 </style>

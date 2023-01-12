@@ -50,3 +50,7 @@ With this challenge I reinforced my knowledge with css and responsive design
 
 - Frontend Mentor - [@guilherme-studier](https://www.frontendmentor.io/profile/guilherme-studier)
 - Twitter - [@guistudier](https://www.twitter.com/guistudier)
+
+## View
+
+- https://jade-horse-f44955.netlify.app/
